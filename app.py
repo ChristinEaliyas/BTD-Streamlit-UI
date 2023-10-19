@@ -96,5 +96,5 @@ def main():
         show_file.image(gl_image, use_column_width=True)
         button_download = st.download_button(label="Download", data=gl_image)
     
- 
+print("Hi")
 main()
